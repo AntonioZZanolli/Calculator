@@ -1,0 +1,13 @@
+C:\wamp64\www\ProjetosAntonio\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\wamp64\www\ProjetosAntonio\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\wamp64\www\ProjetosAntonio\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\wamp64\www\ProjetosAntonio\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\wamp64\www\ProjetosAntonio\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\wamp64\www\ProjetosAntonio\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\wamp64\www\ProjetosAntonio\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\wamp64\www\ProjetosAntonio\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\wamp64\www\ProjetosAntonio\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\wamp64\www\ProjetosAntonio\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\wamp64\www\ProjetosAntonio\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\wamp64\www\ProjetosAntonio\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\wamp64\www\ProjetosAntonio\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
